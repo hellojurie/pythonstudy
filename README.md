@@ -1,6 +1,6 @@
-#python studsy
+#python study
 
-## This repository jurie 
+## This repository is jurie 
 
 ```
 test
