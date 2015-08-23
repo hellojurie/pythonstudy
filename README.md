@@ -3,6 +3,12 @@
 ## Git Usage 
 
 ```
+Launch VMWare, login
+ls
+cd workspace
+ls 
+cd pythonstudy
+
 Open file-->vim filename.md
 press i edit mode, esc command :wq -->save
 
